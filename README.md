@@ -1,5 +1,7 @@
 # Cancer_protein_functional_detection
 A Deep Learning combined Model for Predicting Tumor Suppressor Genes, Oncogenes and Fusion from PDB Structures
 
-I am cleaning the unnecceary comments and removing duplicates(due to different versions of the census data) of code files, since this is my thesis work all coding is done by me(not team),
-I am working on to update the finalised proper codes in organised manner.
+Since this is my dessertation work all coding is done by me under the supervision of Dr. Chu and Dr. Logan. 
+Part of the work is under review on the Journal Computers in Biology and Medicine (Elsevier). This code is mainly uploaded for the better understanding of my desseration document.
+
+Part of my dessertation documemnt related to this project is given in the report.("Level_2_report.pdf")
