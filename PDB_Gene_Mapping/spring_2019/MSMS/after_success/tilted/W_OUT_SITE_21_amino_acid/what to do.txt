@@ -1,0 +1,2 @@
+check the genes list in train and test if the scripts; and form the data accordingly
+Createt the dataset without SITE infor

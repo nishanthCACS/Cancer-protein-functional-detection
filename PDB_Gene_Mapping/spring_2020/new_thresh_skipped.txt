@@ -1,0 +1,38 @@
+Working on  Fusion_T_2
+
+ 
+1O04  size issue: 
+ x size:  151
+ y size:  78
+ z size:  86
+ 
+PDB  1O04  skipped due to size issue
+ 
+1ZUM  size issue: 
+ x size:  144
+ y size:  68
+ z size:  65
+ 
+PDB  1ZUM  skipped due to size issue
+ 
+3N80  size issue: 
+ x size:  142
+ y size:  73
+ z size:  82
+ 
+PDB  3N80  skipped due to size issue
+
+Working on  new_edited_T1
+
+Making saving direcory:  E:/scrach_cacs_1083/Before_thresh_changed/optimaly_tilted_21_quarter/Tier_1
+
+Working on  Not-anotated_T_2
+
+
+Working on  ONGO_Fusion_T_1
+
+
+Working on  ONGO_Fusion_T_2
+
+
+Working on  ONGO_TSG_Fusion_T_1

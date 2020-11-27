@@ -1,0 +1,8 @@
+		Only direct
+racy   = 100.0
+Ensamble_hit_accuracy = 83.72
+Method_1_hit_accuracy = 88.37
+Method_2_hit_accuracy = 81.4
+Method_3_hit_accuracy = 79.07
+
+Direct and Ensamble addup accuracy: 86.79

@@ -1,0 +1,100 @@
+ONGO  training in progress
+PDB  5WLB  skipped due to amino acid issue
+ONGO  testing in progress
+Making saving direcory:  C:/Users/nishy/Documents/Projects_UL/Mot_if_study_python/Spring_2019/results/msms_pikles/MOTIF_results/unigene/optimaly_tilted/Test/ONGO
+PDB  3GT8  skipped due to amino acid issue
+PDB  3LZB  skipped due to amino acid issue
+721P  not has single atom to satify
+TSG  training in progress
+Making saving direcory:  C:/Users/nishy/Documents/Projects_UL/Mot_if_study_python/Spring_2019/results/msms_pikles/MOTIF_results/unigene/optimaly_tilted/Train/TSG
+ 
+1W72  size issue: 
+ x size:  201
+ y size:  28
+ z size:  12
+ 
+PDB  1W72  skipped due to size issue
+ 
+2AK4  size issue: 
+ x size:  200
+ y size:  50
+ z size:  46
+ 
+PDB  2AK4  skipped due to size issue
+PDB  2H26  skipped due to amino acid issue
+ 
+4PJE  size issue: 
+ x size:  200
+ y size:  67
+ z size:  27
+ 
+PDB  4PJE  skipped due to size issue
+ 
+4PJH  size issue: 
+ x size:  200
+ y size:  68
+ z size:  36
+ 
+PDB  4PJH  skipped due to size issue
+ 
+5C08  size issue: 
+ x size:  200
+ y size:  18
+ z size:  42
+ 
+PDB  5C08  skipped due to size issue
+ 
+5C0A  size issue: 
+ x size:  201
+ y size:  28
+ z size:  42
+ 
+PDB  5C0A  skipped due to size issue
+ 
+5C0B  size issue: 
+ x size:  202
+ y size:  50
+ z size:  32
+ 
+PDB  5C0B  skipped due to size issue
+ 
+5C0C  size issue: 
+ x size:  215
+ y size:  18
+ z size:  44
+ 
+PDB  5C0C  skipped due to size issue
+ 
+5EUO  size issue: 
+ x size:  200
+ y size:  73
+ z size:  3
+ 
+PDB  5EUO  skipped due to size issue
+ 
+5U6Q  size issue: 
+ x size:  201
+ y size:  118
+ z size:  51
+ 
+PDB  5U6Q  skipped due to size issue
+TSG  testing in progress
+Making saving direcory:  C:/Users/nishy/Documents/Projects_UL/Mot_if_study_python/Spring_2019/results/msms_pikles/MOTIF_results/unigene/optimaly_tilted/Test/TSG
+Fusion  training in progress
+Making saving direcory:  C:/Users/nishy/Documents/Projects_UL/Mot_if_study_python/Spring_2019/results/msms_pikles/MOTIF_results/unigene/optimaly_tilted/Train/Fusion
+ 
+1W72  size issue: 
+ x size:  201
+ y size:  28
+ z size:  12
+ 
+PDB  1W72  skipped due to size issue
+ 
+5IFM  size issue: 
+ x size:  201
+ y size:  24
+ z size:  36
+ 
+PDB  5IFM  skipped due to size issue
+Fusion  testing in progress
+Making saving direcory:  C:/Users/nishy/Documents/Projects_UL/Mot_if_study_python/Spring_2019/results/msms_pikles/MOTIF_results/unigene/optimaly_tilted/Test/Fusion

@@ -1,0 +1,6 @@
+V_91 Tier_1 and TIer_2 genes classification by models build on 10_fold(V84_BIR using Before_thresh SITE must data)
+These results were created by fully clean PDBs(thus these dosen't have overlapping PDBS at all)
+
+sicne the overlapping PDBs through the model hasn't run yet
+The genes set have overlapping PDBs is in Tier-1 'ONGO_TSG' class is left
+And the problemetric genes those genes(belongs Tier-1 to ONGO and TSG have more than 50% overlapping PDBs) were not evaluated yet

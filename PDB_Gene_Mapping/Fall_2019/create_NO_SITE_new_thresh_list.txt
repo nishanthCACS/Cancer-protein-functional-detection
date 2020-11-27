@@ -1,0 +1,99 @@
+ONGO  training in progress
+Making saving direcory:  C:/Users/nishy/Documents/Projects_UL/Mot_if_study_python/Fall_2019/unigene_Optimally_tilted/21_aminoacids/Train/ONGO
+ONGO  testing in progress
+Making saving direcory:  C:/Users/nishy/Documents/Projects_UL/Mot_if_study_python/Fall_2019/unigene_Optimally_tilted/21_aminoacids/Test/ONGO
+PDB  3GT8  skipped due to amino acid issue
+PDB  3LZB  skipped due to amino acid issue
+TSG  training in progress
+Making saving direcory:  C:/Users/nishy/Documents/Projects_UL/Mot_if_study_python/Fall_2019/unigene_Optimally_tilted/21_aminoacids/Train/TSG
+ 
+1W72  size issue: 
+ x size:  223
+ y size:  90
+ z size:  59
+ 
+PDB  1W72  skipped due to size issue
+ 
+2AK4  size issue: 
+ x size:  205
+ y size:  94
+ z size:  116
+ 
+PDB  2AK4  skipped due to size issue
+PDB  2H26  skipped due to amino acid issue
+ 
+4PJE  size issue: 
+ x size:  206
+ y size:  135
+ z size:  85
+ 
+PDB  4PJE  skipped due to size issue
+ 
+4PJH  size issue: 
+ x size:  200
+ y size:  131
+ z size:  83
+ 
+PDB  4PJH  skipped due to size issue
+ 
+5C08  size issue: 
+ x size:  236
+ y size:  49
+ z size:  54
+ 
+PDB  5C08  skipped due to size issue
+ 
+5C0A  size issue: 
+ x size:  231
+ y size:  47
+ z size:  51
+ 
+PDB  5C0A  skipped due to size issue
+ 
+5C0B  size issue: 
+ x size:  275
+ y size:  56
+ z size:  62
+ 
+PDB  5C0B  skipped due to size issue
+ 
+5C0C  size issue: 
+ x size:  283
+ y size:  57
+ z size:  64
+ 
+PDB  5C0C  skipped due to size issue
+ 
+5EUO  size issue: 
+ x size:  222
+ y size:  96
+ z size:  71
+ 
+PDB  5EUO  skipped due to size issue
+ 
+5U6Q  size issue: 
+ x size:  200
+ y size:  155
+ z size:  71
+ 
+PDB  5U6Q  skipped due to size issue
+TSG  testing in progress
+Making saving direcory:  C:/Users/nishy/Documents/Projects_UL/Mot_if_study_python/Fall_2019/unigene_Optimally_tilted/21_aminoacids/Test/TSG
+Fusion  training in progress
+Making saving direcory:  C:/Users/nishy/Documents/Projects_UL/Mot_if_study_python/Fall_2019/unigene_Optimally_tilted/21_aminoacids/Train/Fusion
+ 
+1W72  size issue: 
+ x size:  223
+ y size:  90
+ z size:  59
+ 
+PDB  1W72  skipped due to size issue
+ 
+5IFM  size issue: 
+ x size:  213
+ y size:  103
+ z size:  78
+ 
+PDB  5IFM  skipped due to size issue
+Fusion  testing in progress
+Making saving direcory:  C:/Users/nishy/Documents/Projects_UL/Mot_if_study_python/Fall_2019/unigene_Optimally_tilted/21_aminoacids/Test/Fusion

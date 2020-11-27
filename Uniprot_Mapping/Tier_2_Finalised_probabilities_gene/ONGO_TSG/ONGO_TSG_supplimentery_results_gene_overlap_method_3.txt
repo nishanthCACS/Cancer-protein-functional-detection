@@ -1,0 +1,3 @@
+		Probabilities of Method_3 pikles
+Uni_gene_ID	, OG	, TSG	, Fusion	Class
+Hs.387804	,0.83	,0.03	,0.14	, ONGO

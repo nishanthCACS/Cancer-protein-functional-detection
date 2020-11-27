@@ -1,0 +1,11 @@
+		Probabilities of Method_2 pikles
+Uni_gene_ID	, OG	, TSG	, Fusion	Class
+Hs.123642	,0.86	,0.01	,0.13	, ONGO
+Hs.166011	,0.49	,0.23	,0.27	, ONGO_Fusion
+Hs.195464	,0.46	,0.53	,0.01	, ONGO_TSG
+Hs.278694	,0.81	,0.12	,0.06	, ONGO
+Hs.436873	,0.29	,0.03	,0.67	, ONGO_Fusion
+Hs.522590	,0.0	,1.0	,0.0	, TSG
+Hs.708861	,0.81	,0.13	,0.06	, ONGO
+Hs.709188	,0.04	,0.96	,0.0	, TSG
+Hs.73962	,0.64	,0.36	,0.0	, ONGO_TSG

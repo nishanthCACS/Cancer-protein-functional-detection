@@ -1,0 +1,4 @@
+In progress only the Clean results is presented; for V91 fully clean PDBs used for weights even for the 
+Fusion no overlappimng considered at all 
+
+In V88 old calculation Fusion primary strcutures considerd overlapping PDBs' weightage

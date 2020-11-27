@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520704350084.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1691056753",
+    "id" : "9C48280D",
+    "lastKnownWriteTime" : 1537294775,
+    "last_content_update" : 1540250196888,
+    "path" : "~/Projects_UL/Continues BIBM/Results_for_R/ONGO_R/pdb_alpha_carbon_outer_layer_seperating_x_y_z_coordinates_in_different_txt_files.R",
+    "project_path" : "pdb_alpha_carbon_outer_layer_seperating_x_y_z_coordinates_in_different_txt_files.R",
+    "properties" : {
+        "cursorPosition" : "140,5",
+        "scrollLine" : "132"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+		Probabilities of direct pikles
+Uni_gene_ID	, OG	, TSG	, Fusion	Class
+Hs.127799	,0.11	,0.89	,0.0	, TSG
+Hs.220950	,0.0	,1.0	,0.0	, TSG
+Hs.584654	,0.01	,0.99	,0.0	, TSG
+Hs.715026	,0.93	,0.02	,0.05	, ONGO
+
+	--//////////-----------------------------------************-------------------------------------///////----------	
+
+		Probabilities from Ensamble
+Uni_gene_ID	, OG	, TSG	, Fusion	Class
+Hs.370666	,0.72	,0.28	,0.0	, ONGO_TSG
+Hs.406293	,0.5	,0.49	,0.0	, ONGO_TSG
+Hs.459759	,0.47	,0.52	,0.01	, ONGO_TSG
+Hs.462732	,0.23	,0.49	,0.28	, TSG_Fusion
+Hs.490287	,0.68	,0.26	,0.06	, ONGO_TSG
+Hs.495473	,0.53	,0.47	,0.0	, ONGO_TSG
+Hs.504096	,0.36	,0.4	,0.24	, ONGO_TSG
+Hs.591980	,0.2	,0.79	,0.01	, TSG
+Hs.632446	,0.35	,0.05	,0.6	, ONGO_Fusion
+Hs.654464	,0.09	,0.02	,0.89	, Fusion
+Hs.705364	,0.51	,0.49	,0.0	, ONGO_TSG
+Hs.73090	,0.28	,0.41	,0.31	, ONGO_TSG_Fusion
+Hs.740601	,0.86	,0.1	,0.04	, ONGO
+Hs.744830	,0.05	,0.69	,0.26	, TSG_Fusion
+Hs.745160	,1.0	,0.0	,0.0	, ONGO

@@ -1,0 +1,3 @@
+Direct_hit_accuracy   = 0.0
+
+Direct and Ensamble addup accuracy: 0.0
