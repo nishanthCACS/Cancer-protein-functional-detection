@@ -6,10 +6,10 @@ Part of the work is published in the Journal Computers in Biology and Medicine (
 
 Part of my dissertation document related to this project is given in the report. ("Level_2_report.pdf")
 
-For more detail please reach me, 
-www.linkedin.com/in/nishanth-anand
+For more details, please reach me 
+at www.linkedin.com/in/nishanth-anand
 
-If you use any part of the code please cite me,
+If you use any part of the code, please cite me,
 
 [1] Anandanadarajah, N., Chu, C. H., & Loganantharaj, R. (2021). An integrated deep learning and dynamic programming method for predicting tumor suppressor genes, oncogenes, and fusion from PDB structures. In Computers in Biology and Medicine (Vol. 133, p. 104323). Elsevier BV. https://doi.org/10.1016/j.compbiomed.2021.104323
 
